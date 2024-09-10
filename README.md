@@ -61,7 +61,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-        <a href="https://raw.githubusercontent.com/SaeedShakuri/SaeedShakuri.githup.io/main/assets/img/Saeed_Shakuri_CV.pdf" style="text-decoration: none;">
+        <a href="https://raw.githubusercontent.com/SaeedShakuri/SaeedShakuri.github.io/main/assets/img/Saeed_Shakuri_CV.pdf" style="text-decoration: none;">
           <i class="far fa-file-pdf"></i> CV
         </a>
       </div>
