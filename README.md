@@ -65,6 +65,9 @@
           <i class="far fa-file-pdf"></i> CV
         </a>
       </div>
+      <div style="margin: 2px;">
+          <h5> Last Updated: Sep. 2024 </h5>
+      </div>
     </div>
   </div>
   <div style="flex: 3; padding: 20px; width: 100%;">
@@ -72,7 +75,7 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
     <section>
-      <h2>About me</h2>
+      <h2 style="margin: 0;">About me</h2>
       <p>
         I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in Deep Learning methods within real-world applications and challenges. My current research focuses on Computer Vision methods in detecting lung nodules associated with lung cancer. Additionally, I would like to conduct high-quality research, resulting in publications in top-tier venues. <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning for fall 2025.</strong>
       </p>
@@ -82,7 +85,7 @@
       <ul style="margin-top: 8px;">
           
         <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has
-been submitted to the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
+been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>
 
         <li style="padding-top: 15px;">I also have worked on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images, and it's in the final phase and is going to be submitted to Computerized Medical Imaging and Graphics.</li>
         
@@ -145,7 +148,7 @@ been submitted to the 19th ICIS (IEEE), and the conference takes place on Oct. 2
     <ul>
         
       <li style="margin-bottom: 10px;">
-        <strong>(Submitted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
+        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
