@@ -66,7 +66,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Sep. 2024 </h5>
+          <h5> Last Updated: Oct. 2024 </h5>
       </div>
     </div>
   </div>
@@ -251,6 +251,10 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
     <ul>
       <li style="margin-bottom: 10px;">
         <strong><div>Reviewer</div></strong>
+        <div style="display: flex; justify-content: space-between;">
+          <div>Elsevier - International Journal of Electrical and Computer Engineering</div>
+          <strong><div>Oct. 2024</div></strong>
+        </div>        
         <div style="display: flex; justify-content: space-between;">
           <div>Wiley - The Journal of Engineering</div>
           <strong><div>Aug. 2023</div></strong>
