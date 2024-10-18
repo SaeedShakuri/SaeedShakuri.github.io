@@ -95,7 +95,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 8px;">
-      Deep Learning, Computer Vision, Medical Image Analysis
+      Deep Learning, Computer Vision, Medical Applications in Deep Learning
     </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -166,12 +166,26 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
-    <h2 style="padding-top: 15px;">Teaching Experience</h2>
+    <h2 style="padding-top: 15px;">Teaching Assistant</h2>
     <ul>
       <li style="margin-bottom: 15px;">
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
-            <strong>Teaching Assistant, Undergraduate Artificial Intelligence class</strong>
+            <strong>Information Retrieval on the Web (Graduate class)</strong>
+            <br>University of Science and Culture
+            <br>Dr. Alireza Mansouri
+          </div>
+          <div>
+            <strong>Fall 2024</strong>
+          </div>
+        </div>
+      </li>
+
+
+      <li style="margin-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+          <div style="flex: 1;">
+            <strong>Artificial Intelligence (Undergraduate class)</strong>
             <br>University of Science and Culture
             <br>Dr. Azadeh Tabatabei
           </div>
@@ -184,7 +198,7 @@ been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23
       <li>
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
-            <strong>Teaching Assistant, Graduate Machine Learning class</strong>
+            <strong>Machine Learning (Graduate class)</strong>
             <br>University of Science and Culture
             <br>Dr. Alireza Rezvanian
           </div>
