@@ -132,7 +132,7 @@
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
             <strong>Technical and Vocational University, Karaj, Iran</strong>
-            <br>A.S., Electronics Engineering (Beheshti College)
+            <br>AS, Electronics Engineering (Beheshti College)
           <!--  <br><strong><u>Project:</u></strong> A smart house project with a digital lock and automatic household light switch.            -->
           </div>
           <div>
