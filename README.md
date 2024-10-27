@@ -24,9 +24,11 @@
     }
   </style>
 </head>
+
+
 <body style="margin: 0;">
 <div class="container">
-  <div class="sidebar">
+<div class="sidebar">
 <div style="width: 245px; height: 265px; overflow: hidden; border-radius: 20px; margin: 10px;">
     <img src="assets/img/image.jpeg" alt="Profile Picture" style="width: auto; height: 100%; object-fit: cover; ">
 </div>
@@ -79,20 +81,10 @@
       <p>
         I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, under the supervision of <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong>, with an emphasis on <strong>Multimodal Learning</strong> and <strong>Computer Vision</strong>, particularly within <strong>real-world applications and challenges</strong>, such as in the medical and healthcare domains. My current research focuses on Computer Vision methods (Object detection) in detecting lung nodules for lung cancer in CT scan images. Also, I have authored a paper in this field and collaborated on a few other papers in the context of real-time emotion recognition (Image classification). <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning for fall 2025.</strong>
       </p>
-<!--      <p style="margin-bottom: 0;">-->
-<!--        <strong>Highlight of my research experience:</strong>-->
-<!--      </p>-->
-<!--      <ul style="margin-top: 8px;">-->
-          
-<!--        <li>I have authored a paper titled <strong>’An Efficient Approach in Detecting Lung Nodules Using Swin Transformer’</strong> which has-->
-<!--been accepted at the 19th ICIS (IEEE), and the conference takes place on Oct. 23 and 24, 2024.</li>-->
 
-<!--        <li style="padding-top: 15px;">I also have worked on employing Few-shot Learning methods in object detection for detecting lung nodules from CT scan images, and it's in the final phase and is going to be submitted to Computerized Medical Imaging and Graphics.</li>-->
-        
-<!--        <li style="padding-top: 15px;"> have also collaborated on two papers focused on the Image Classification domain within real-time emotion recognition-->
-<!--(More info in the Publications section).</li>        -->
-<!--      </ul>-->
-<!--    </section>-->
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+    </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 4px;">
       Deep Learning, Multimodel Learning, Computer Vision, Medical Applications in Deep Learning
