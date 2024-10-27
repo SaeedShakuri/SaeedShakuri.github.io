@@ -87,7 +87,7 @@
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 4px;">
-      Deep Learning, Multimodel Learning, Computer Vision, Medical Applications in Deep Learning
+      Deep Learning, Multimodal Learning, Computer Vision, Medical Applications in Deep Learning
     </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
