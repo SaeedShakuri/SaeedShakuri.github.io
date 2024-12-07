@@ -68,7 +68,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Oct. 2024 </h5>
+          <h5> Last Updated: Nov. 2024 </h5>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
             <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
-            <br><strong><u>Thesis:</u></strong> Few-shot lung nodule detection.
+            <br><strong><u>Thesis:</u></strong> Few-shot object detection.
           </div>
           <div>
             <strong>Oct. 2021 - Expected Feb. 2025</strong>
