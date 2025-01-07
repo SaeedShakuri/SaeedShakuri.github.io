@@ -205,6 +205,16 @@
 
     <h2 style="padding-top: 15px;">Notable Academic Projects</h2>
     <ul>
+    
+     <li style="margin-bottom: 10px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div style="flex: 1;">
+            Traffic Sign Detection Using Faster R-CNN, FPN, and Transfer Learning.
+            <a href="https://github.com/SaeedShakuri/Computer-Vision/blob/main/PyTorch_Object_Detection_Transfer_Learning_Traffic_Sign.ipynb">GitHub</a>
+          </div>
+        </div>
+      </li>    
+        
       <li style="margin-bottom: 10px;">
         <div style="display: flex; justify-content: space-between; align-items: center;">
           <div style="flex: 1;">
@@ -307,7 +317,7 @@
           <div style="flex: 1;">
             <strong>BlazingFallApps, remotely</strong>
             <br>Software Developer
-            <br>Developing the following mobile applications with the Flutter framework:  A digital board game, a warehouse handling application for shopping stores, an application for a better interaction between doctors and their patients, and a real estate application
+            <br>Developing the following mobile applications with the Flutter framework:  A digital board game, a warehouse handling application for shopping stores, an application for better interaction between doctors and their patients, and a real estate application
           </div>
           <div>
             <strong>Mar. 2020 - Nov. 2021</strong>
