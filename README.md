@@ -140,7 +140,7 @@
     <ul>
         
      <li style="margin-bottom: 10px;">
-        <strong>(Submitted)</strong> Mohammad Saleh, Azadeh Tabatabei, and <strong>Saeed Shakuri</strong>. ”Towards Trustworthy Multimodal AI: Review of Fairness, Transparency, and Ethical Implications in Vision-Language Tasks” 8th International Conference on Computers, information technology and applications of artificial intelligence (CITAAI), 2025.
+        <strong>(Submitted)</strong> Mohammad Saleh, <strong>Saeed Shakuri</strong>. ”Towards Trustworthy Multimodal AI: Review of Fairness, Transparency, and Ethical Implications in Vision-Language Tasks” 8th International Conference on Computers, information technology and applications of artificial intelligence (CITAAI), 2025.
       </li>        
         
       <li style="margin-bottom: 10px;">
