@@ -68,7 +68,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Dec. 2024 </h5>
+          <h5> Last Updated: Jan. 2025 </h5>
       </div>
     </div>
   </div>
