@@ -102,7 +102,7 @@
             <br><strong><u>Thesis:</u></strong> Few-shot object detection.
           </div>
           <div>
-            <strong>Oct. 2021 - Expected Feb. 2025</strong>
+            <strong>Oct. 2021 - Expected Mar. 2025</strong>
           </div>
         </div>
       </li>
