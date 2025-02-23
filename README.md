@@ -68,7 +68,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Jan. 2025 </h5>
+          <h5> Last Updated: Feb. 2025 </h5>
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@
     <section>
       <h2 style="margin: 0;">About me</h2>
       <p>
-        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong>, with some emphasis on <strong>Multimodal Learning</strong> and <strong>Computer Vision</strong>, including but not limited to the medical and healthcare domains. I’m also greatly passionate about expanding my skills to <strong>Explainable/Interpretable AI</strong>. My current research focuses on Computer Vision methods (Object detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image classification). <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning for fall 2025.</strong>
+        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong>, with some emphasis on <strong>Multimodal Learning</strong> and <strong>Computer Vision</strong>, including but not limited to the medical and healthcare domains. I’m also greatly passionate about expanding my skills to <strong>Explainable/Interpretable AI</strong>. My current research focuses on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image Classification). <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning for fall 2025.</strong>
       </p>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -270,6 +270,12 @@
     <h2 style="padding-top: 15px;">Professional Services</h2>
     <ul>
       <li style="margin-bottom: 10px;">
+        <strong><div>Posters Presented</div></strong>
+        <div style="display: flex; justify-content: space-between;">
+          <div>2nd Symposium on Frontiers in Computer and Data Sciences - An Efficient Approach in Detecting Lung Nodules Using Swin Transformer</div>
+          <strong><div>Feb. 2025</div></strong>
+        </div>             
+          
         <strong><div>Reviewer</div></strong>
         <div style="display: flex; justify-content: space-between;">
           <div>Elsevier - International Journal of Electrical and Computer Engineering</div>
