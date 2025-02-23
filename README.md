@@ -144,7 +144,7 @@
       </li>        
         
       <li style="margin-bottom: 10px;">
-        <strong>(Accepted)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
+        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
