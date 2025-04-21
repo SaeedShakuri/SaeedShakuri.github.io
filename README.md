@@ -138,11 +138,7 @@
 
     <h2 style="padding-top: 15px;">Publications</h2>
     <ul>
-        
-     <li style="margin-bottom: 10px;">
-        <strong>(Submitted)</strong> Mohammad Saleh, Saeed Masoudnia, <strong>Saeed Shakuri</strong>, and Azadeh Tabatabaei. ”Towards Trustworthy Multimodal AI: Review of Fairness, Transparency, and Ethical Implications in Vision-Language Tasks” 8th International Conference on Computers, information technology and applications of artificial intelligence (CITAAI), 2025.
-      </li>        
-        
+
       <li style="margin-bottom: 10px;">
         <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
