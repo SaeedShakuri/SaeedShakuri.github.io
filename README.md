@@ -140,11 +140,11 @@
     <ul>
 
       <li style="margin-bottom: 10px;">
-        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
+        <strong>(<a href="https://www.researchgate.net/publication/389188364_An_Efficient_Approach_to_Detecting_Lung_Nodules_Using_Swin_Transformer">Published</a>)</strong> <strong>Saeed Shakuri</strong> and Alireza Rezvanian. ”An Efficient Approach in Detecting Lung Nodules Using Swin Transformer” 19th Iranian Conference on Intelligent Systems (ICIS), IEEE, 2024.
       </li>        
         
       <li style="margin-bottom: 10px;">
-        <strong>(<a href="https://scholar.google.com/citations?user=fuJHdW0AAAAJ&hl=en">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 10th International Conference on Web Research (ICWR), IEEE, 2024.
+        <strong>(<a href="https://www.researchgate.net/publication/380779145_Scalable_Real-time_Emotion_Recognition_using_EfficientNetV2_and_Resolution_Scaling">Published</a>)</strong> Ghadami, Omid, Alireza Rezvanian, and <strong>Saeed Shakuri</strong>. ”Scalable Real-time Emotion Recognition using EfficientNetV2 and Resolution Scaling.” 10th International Conference on Web Research (ICWR), IEEE, 2024.
       </li>
   
       <li style="margin-bottom: 10px;">
