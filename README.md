@@ -79,7 +79,7 @@
     <section>
       <h2 style="margin: 0;">About me</h2>
       <p>
-        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong>, with some emphasis on <strong>Multimodal Learning</strong> and <strong>Computer Vision</strong>, including but not limited to the medical and healthcare domains. I’m also greatly passionate about expanding my skills to <strong>Explainable/Interpretable AI</strong>. My current research focuses on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image Classification). <strong>I'm actively looking for a Ph.D. position in the field of Deep Learning.</strong>
+        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong> within real-world applications, including but not limited to medical and healthcare domains, with some emphasis on <strong>Multimodal Learning</strong>, <strong>Computer Vision</strong>, and Natural Language Processing (including Large Language Models). My current research focuses on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image Classification). <strong>I'm actively looking for a Ph.D. position.</strong>
       </p>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -87,7 +87,7 @@
     </section>
     <h4 style="margin-bottom: 0;">Research interests:</h4>
     <p style="margin-top: 4px;">
-      Deep Learning, Multimodal Learning, Computer Vision, Medical Applications in Deep Learning
+      Deep Learning, Multimodal Learning, NLP, Computer Vision, Medical Applications in Deep Learning
     </p>
       
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -99,7 +99,7 @@
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
             <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
-            <br><strong><u>Thesis:</u></strong> Few-shot object detection.
+            <br><strong><u>Thesis:</u></strong> Object detection in CT scan images for lung cancer..
           </div>
           <div>
             <strong>Oct. 2021 - Expected 2025</strong>
