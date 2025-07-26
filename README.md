@@ -99,7 +99,7 @@
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
             <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
-            <br><strong><u>Thesis:</u></strong> Object detection in CT scan images for lung cancer..
+            <br><strong><u>Thesis:</u></strong> Efficient object detection in CT scan for lung cancer.
           </div>
           <div>
             <strong>Oct. 2021 - Expected 2025</strong>
