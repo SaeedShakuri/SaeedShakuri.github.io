@@ -68,7 +68,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Feb. 2025 </h5>
+          <h5> Last Updated: Sep. 2025 </h5>
       </div>
     </div>
   </div>
@@ -79,7 +79,7 @@
     <section>
       <h2 style="margin: 0;">About me</h2>
       <p>
-        I am a master's student in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. I'm currently in my final master's semester, and my research interests broadly lie in <strong>Deep Learning</strong> within real-world applications, including but not limited to medical and healthcare domains, with some emphasis on <strong>Multimodal Learning</strong>, <strong>Computer Vision</strong>, and <strong>Natural Language Processing (including Large Language Models)</strong>. My current research focuses on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image Classification). <strong>I'm actively looking for a Ph.D. position.</strong>
+        I have obtained my master's degree in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. My research interests broadly lie in <strong>Deep Learning</strong> within real-world applications, including but not limited to medical and healthcare domains, with some emphasis on <strong>Multimodal Learning</strong>, <strong>Computer Vision</strong>, and <strong>Natural Language Processing (including Large Language Models)</strong>. My current research focuses on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images. Moreover, I have authored a paper in this field and collaborated on two other papers in the context of real-time facial emotion recognition (Image Classification). <strong>I'm actively looking for a Ph.D. position.</strong>
       </p>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -98,11 +98,13 @@
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
           <div style="flex: 1;">
             <strong>University of Science and Culture, Tehran, Iran</strong>
-            <br>M.Sc., Data Science (GPA 4/4 or 19.05/20)
-            <br><strong><u>Thesis:</u></strong> Efficient object detection in CT scan for lung cancer.
+            <br>M.Sc., Data Science (GPA 4 out of 4 or 19.05 out of 20)
+            <br><strong><u>Thesis</u></strong>: Object detection using Few-shot Learning and Vision Transformers.
+            <br><strong><u>Thesis grade</u></strong>: Excellent.
+
           </div>
           <div>
-            <strong>Oct. 2021 - Expected 2025</strong>
+            <strong>2021 - 2025</strong>
           </div>
         </div>
       </li>
