@@ -319,20 +319,33 @@
 <!-- ------------------------------------------------------------------------------------------------------ -->
 
     <h2 style="padding-top: 15px;">Work Experience</h2>
-    <ul>
-      <li style="margin-bottom: 10px;">
-        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-          <div style="flex: 1;">
-            <strong>BlazingFallApps, remotely</strong>
-            <br>Software Developer
-            <br>Developing the following mobile applications with the Flutter framework:  A digital board game, a warehouse handling application for shopping stores, an application for better interaction between doctors and their patients, and a real estate application
-          </div>
-          <div>
-            <strong>Mar. 2020 - Nov. 2021</strong>
-          </div>
-        </div>
-      </li>
-    </ul>
+<ul>
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>Rastar Creative Development Co.</strong>
+        <br><span style="text-decoration: underline;">R&amp;D Artificial Intelligence Developer</span>
+        <br>Fine-tuning diffusion-based generative models for style adaptation using Python and PyTorch.
+      </div>
+      <div>
+        <strong>Dec. 2025 - Now</strong>
+      </div>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 10px;">
+    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+      <div style="flex: 1;">
+        <strong>BlazingFallApps</strong>
+        <br><span style="text-decoration: underline;">Software Developer</span>
+        <br>Developing the following mobile applications with the Flutter framework: A digital board game, a warehouse handling application for shopping stores, an application for better interaction between doctors and their patients, and a real estate application.
+      </div>
+      <div>
+        <strong>Mar. 2020 - Nov. 2021</strong>
+      </div>
+    </div>
+  </li>
+</ul>
   </div>
 </div>
 </body>
