@@ -68,7 +68,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Sep. 2025 </h5>
+          <h5> Last Updated: Apr. 2026 </h5>
       </div>
     </div>
   </div>
@@ -328,7 +328,7 @@
         <br>Fine-tuning diffusion-based generative models for style adaptation using Python and PyTorch.
       </div>
       <div>
-        <strong>Dec. 2025 - Now</strong>
+        <strong>Dec. 2025 - Feb. 2026</strong>
       </div>
     </div>
   </li>
