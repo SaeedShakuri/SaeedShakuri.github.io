@@ -63,11 +63,6 @@
         </a>
       </div>
       <div style="margin: 2px;">
-        <a href="https://raw.githubusercontent.com/SaeedShakuri/SaeedShakuri.github.io/main/assets/img/Saeed_Shakuri_CV.pdf" style="text-decoration: none;">
-          <i class="far fa-file-pdf"></i> CV
-        </a>
-      </div>
-      <div style="margin: 2px;">
           <h5> Last Updated: Apr. 2026 </h5>
       </div>
     </div>
