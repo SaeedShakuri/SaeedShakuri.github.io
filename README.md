@@ -63,7 +63,7 @@
         </a>
       </div>
       <div style="margin: 2px;">
-          <h5> Last Updated: Apr. 2026 </h5>
+          <h5> Last Updated: Nov. 2026 </h5>
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@
     <section>
       <h2 style="margin: 0;">About me</h2>
       <p>
-        I obtained my master's degree in Data Science at the University of Science and Culture, Tehran, Iran, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. My research interests broadly lie in <strong>Deep Learning</strong> within real-world applications, including but not limited to medical and healthcare domains, with some emphasis on <strong>Multimodal Learning</strong>, <strong>Computer Vision</strong>, and <strong>Natural Language Processing</strong> (including <strong>Large Language Models</strong>), while examining their <strong>Explainability</strong> and <strong>Interpretability</strong>. My thesis focused on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images.
+        I'm a visiting researcher at MIAAI, Danube Private University in Austria. I obtained my master's degree in Data Science at the University of Science and Culture, advised by <a href="https://scholar.google.com/citations?hl=en&user=1Sln9i0AAAAJ&view_op=list_works&sortby=pubdate">Dr. Alireza Rezvanian</a>. My research interests broadly lie in <strong>Deep Learning</strong> within real-world applications, including but not limited to medical and healthcare domains, with some emphasis on <strong>Multimodal Learning</strong> and <strong>Computer Vision</strong>, while examining their <strong>Explainability</strong> and <strong>Interpretability</strong>. My thesis focused on Computer Vision methods (Object Detection) in detecting lung nodules for lung cancer in CT scan images.
       </p>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
@@ -129,6 +129,24 @@
           </div>
         </div>
       </li>
+    </ul>
+
+<!-- ------------------------------------------------------------------------------------------------------ -->
+
+    <h2 style="padding-top: 15px;">Awards and Honors</h2>
+    <ul>
+      <li>
+        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+          <div style="flex: 1;">
+            <strong>OeAD Ernst Mach (WorldWide) Scholarship</strong>
+            <br>On-site research stay in Austria
+            </div>
+          <div>
+            <strong>November 2026 – 2027</strong>
+          </div>
+        </div>
+      </li>
+
     </ul>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
