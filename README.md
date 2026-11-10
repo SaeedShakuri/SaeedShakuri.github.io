@@ -166,9 +166,6 @@
         <strong>(Under Review)</strong> Omid Ghadami, Alireza Rezvanian, <strong>Saeed Shakuri</strong>, and Mohammad Shamami. ”Real-time facial emotion recognition in smartphones using EfficientNetV2 and quantization-aware training.” Multimedia Tools and Application, Springer.
       </li>
 
-      <li style="margin-bottom: 10px;">
-        <strong>(In preparation)</strong> <strong>Saeed Shakuri</strong>, Alireza Rezvanian, ”Lung Nodule Detection Using Few-shot Learning and Swin Transformer” to be submitted to Computerized Medical Imaging and Graphics.
-      </li>
     </ul>
 
 <!-- ------------------------------------------------------------------------------------------------------ -->
