@@ -330,18 +330,6 @@
 
     <h2 style="padding-top: 15px;">Work Experience</h2>
 <ul>
-  <li style="margin-bottom: 10px;">
-    <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-      <div style="flex: 1;">
-        <strong>Rastar Creative Development Co.</strong>
-        <br><span style="text-decoration: underline;">R&amp;D Artificial Intelligence Developer</span>
-        <br>Fine-tuning diffusion-based generative models for style adaptation using Python and PyTorch.
-      </div>
-      <div>
-        <strong>Dec. 2025 - Feb. 2026</strong>
-      </div>
-    </div>
-  </li>
 
   <li style="margin-bottom: 10px;">
     <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -355,6 +343,7 @@
       </div>
     </div>
   </li>
+  
 </ul>
   </div>
 </div>
